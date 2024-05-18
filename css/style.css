@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    background-color: #F5EFE6;
+}
+
+h1 {
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4793AF;
+}
+
+h5 {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #4D869C;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+
+.color2 {
+    color: #556FB5;
+}
+
+.color1 {
+    color: #005792;
+}
